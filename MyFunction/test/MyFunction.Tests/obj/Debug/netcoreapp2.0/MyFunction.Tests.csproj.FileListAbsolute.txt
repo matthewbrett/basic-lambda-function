@@ -1,0 +1,15 @@
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/MyFunction.Tests.deps.json
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/MyFunction.Tests.runtimeconfig.json
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/MyFunction.Tests.runtimeconfig.dev.json
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/MyFunction.Tests.dll
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/MyFunction.Tests.pdb
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/MyFunction.dll
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.0/MyFunction.pdb
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.0/MyFunction.Tests.csproj.CoreCompileInputs.cache
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.0/MyFunction.Tests.AssemblyInfoInputs.cache
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.0/MyFunction.Tests.AssemblyInfo.cs
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.0/MyFunction.Tests.dll
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.0/MyFunction.Tests.pdb

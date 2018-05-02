@@ -1,0 +1,10 @@
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.0/MyFunction.deps.json
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.0/MyFunction.runtimeconfig.json
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.0/MyFunction.runtimeconfig.dev.json
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.0/MyFunction.dll
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.0/MyFunction.pdb
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.0/MyFunction.csproj.CoreCompileInputs.cache
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.0/MyFunction.AssemblyInfoInputs.cache
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.0/MyFunction.AssemblyInfo.cs
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.0/MyFunction.dll
+/Users/matthewbrett/projects/aws/basic-lambda/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.0/MyFunction.pdb
